@@ -117,3 +117,7 @@ d
 .white {
     background: #8D99AE;
 }
+
+.thing {
+  display: block;
+}
