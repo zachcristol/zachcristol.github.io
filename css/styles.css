@@ -121,3 +121,10 @@ d
 .thing {
   display: block;
 }
+
+.column-wide-fix {
+  width: 62%;
+  float: left;
+  min-height: 175px;
+  padding-bottom: 8%;
+}
